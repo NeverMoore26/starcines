@@ -1,3 +1,5 @@
+Gonzalo Proaño
+Ghandy Aldaz 
 # star_cines
 
 A new Flutter project.
